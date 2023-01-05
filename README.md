@@ -1,4 +1,4 @@
-# Google Clone
+# 🌎 Google Clone
 
 Web application with light/dark mode working as Google clone where many things can be searched for.
 
